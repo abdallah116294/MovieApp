@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\mobi lap\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\mobi lap\\.nuget\\packages"
+    ]
+  }
+}
